@@ -379,7 +379,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/josenetoo/fiap-dclt-aula04
+    repoURL: https://github.com/jefersonpapalinosp-sys/fiap-dclt-aula04
     targetRevision: HEAD
     path: gitops-repo/applications/fiap-todo-api/overlays/production
   

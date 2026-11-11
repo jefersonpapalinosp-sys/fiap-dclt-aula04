@@ -609,7 +609,7 @@ AWS_ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text --pro
 # Verificar
 echo "Seu Account ID: $AWS_ACCOUNT_ID"
 
-# Deve mostrar algo como: 777870534201
+# Deve mostrar algo como: SEU_ACCOUNT_ID
 ```
 
 ### Passo 20: Criar Secret para ECR
